@@ -12,3 +12,4 @@ token.pickle
 credentials.json
 prospects
 sources/crawl.duckdb
+seo_audit.code-workspace
