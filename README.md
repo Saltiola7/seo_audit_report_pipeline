@@ -10,6 +10,14 @@ Currently I use it for prospect SEO audits so that I swap the index.md file in t
 
 Here some resulting audit reports:
 - imagegroup.netlify.app
+- alevo.netlify.app
+- brisbanecityhomeloans.netlify.app
+- crystaltec.netlify.app
+- primeaccounting.netlify.app
+- archhomeloans.netlify.app
+- highfinance.netlify.app
+- peterstrohkorb.netlify.app
+- sixfam.netlify.app
 
 Reach out if you would like your own audit or custom implementation of this reporting pipeline
 
