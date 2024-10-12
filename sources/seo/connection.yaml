@@ -1,0 +1,5 @@
+# This file was automatically generated
+name: seo
+type: duckdb
+options:
+  filename: crawl.duckdb
