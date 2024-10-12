@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"hide-files.files": [
+			".vscode",
+			".github",
+			".evidence",
+			"node_modules",
+			".npmrc",
+			"evidence.plugins.yaml",
+			"package-lock.json",
+			"package.json"
+		]
+	}
+}

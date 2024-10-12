@@ -13,7 +13,6 @@ title: domain.com SEO Audit
   </iframe>
 </div> -->
 
-
 ## Summary of SERP & On-Page Analysis
 
 {#if summary_table < 0}
