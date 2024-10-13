@@ -1,0 +1,7 @@
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2  # Often needed alongside google-auth-oauthlib
+requests
+python-dotenv
+duckdb
+polars

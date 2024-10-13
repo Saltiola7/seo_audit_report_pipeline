@@ -1,5 +1,5 @@
 ---
-title: domain.com SEO Audit
+title: moreliving.com.au SEO Audit
 ---
 
 <!-- <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
@@ -12,6 +12,102 @@ title: domain.com SEO Audit
     allowfullscreen>
   </iframe>
 </div> -->
+
+## Traffic Estimation
+![](https://stockholm-video-cdn.b-cdn.net/screenshot_20241009144946.png)
+Congratulations for a great launch of you new website in terms of SEO.
+
+## Structured Data: Rich Result Validation Errors
+![](https://stockholm-video-cdn.b-cdn.net/screenshot_20241009211022.png)
+
+The majority of the site has schema markup validation errors. I would dive into Google Search Console to the Product Listings & Merchant Listings tabs to diagnose this further. I also extracted a spreadsheetful of data about them.
+
+![](https://stockholm-video-cdn.b-cdn.net/screenshot_20241009211728.png)
+[Spreadsheet about Rich Result Validation Errors & Warnings](https://docs.google.com/spreadsheets/d/1cmYC9lcMCvqsbeXKIBPQwRhcGioMYAvuZ3ud_l9Fitg/edit?usp=sharing)
+
+![](https://stockholm-video-cdn.b-cdn.net/screenshot_20241009203520.png)
+These impact directly the Rich Results in Google and hence bottleneck the traffic from its full potential. Currently there are rich results available, but it could potentially be higher if this would be fixed.
+
+**Here's a breakdown of the key issues and their impact:**
+
+**1. Product Information Gaps:**
+
+* **Missing Prices:** Many product listings are missing price information, a crucial detail for potential customers. Without clear pricing, customers may get frustrated and look elsewhere.  This is preventing Google from showing your products in rich result formats like Google Shopping.
+* **Missing Images:** Several products lack images, making it harder for customers to visualize what they're buying. Just like a menu without pictures, this can discourage engagement and lead to missed opportunities. This also prevents your products from showing up in image search results and Google Shopping.
+* **Incomplete Product Details:** Inconsistent or missing product descriptions and poorly formatted SKUs make it difficult for Google to match your products to relevant search queries. This is like an incomplete library catalog – it makes it harder for customers to find exactly what they're looking for.
+
+**2. Missing Opportunities for Rich Results:**
+
+* **No Star Ratings:** The absence of aggregate rating data means you're missing out on those eye-catching star ratings that appear under search results. These ratings build trust and can significantly increase click-through rates.
+* **No Individual Reviews:** You can further enhance your product listings by including individual reviews. These offer more detailed insights for potential customers, increasing their confidence in making a purchase.
+
+**3. GTINs for Wider Reach:**
+
+* **Missing GTINs (Global Trade Item Numbers):** These unique identifiers are crucial for product recognition across retailers and marketplaces. Without them, your products may be excluded from certain platforms and comparisons, limiting their reach.
+
+
+## Competition
+![](https://stockholm-video-cdn.b-cdn.net/screenshot_20241009145333.png)
+There is still a long way to go to fill the keyword & backlink gaps to competition
+
+## SERPs
+![](https://stockholm-video-cdn.b-cdn.net/screenshot_20241009152451.png)
+Not optimized meta titles & meta descriptions
+
+![](https://stockholm-video-cdn.b-cdn.net/screenshot_20241009191829.png)
+Inconsistent brand name, Alevo or Athelgen? Both is confusing.
+
+![](https://stockholm-video-cdn.b-cdn.net/screenshot_20241009191926.png)
+None of the product pages have star reviews in the search result.
+
+## Social Media
+### Instagram
+![](https://stockholm-video-cdn.b-cdn.net/screenshot_20241009152707.png)
+I would consider replacing linktree with a dedicated same style page in your website itself, to got the SEO & engagement benefits, instead of boosting linkr.ee domain.
+
+Not very consistent content calendar around 15-20 posts per year, could be that amount per month.
+
+### LinkedIn
+Also not consistent posting.
+No LinkedIn Insights tag for doing audience segmenting
+
+## Wholesale
+There could be a wholesale quick shop for retailers.
+
+## Programmatic Landing Pages per Category x city
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgrowthmindedmarketing.com%2Fwp-content%2Fuploads%2F2024%2F01%2FProgrammatic-SEO-example-1024x683.png&f=1&nofb=1&ipt=dbc1e5acd320314cb2f4f582c6de0d2c79c4ae1fbbdeb7a4d5cd1225c3338f34&ipo=images)
+
+![](https://www.areaten.com/wp-content/uploads/2023/09/oegp2-consumer-insights-consumer-trends-local-search-to-store-visit-statis.jpg)
+To get more local search traffic from all the cities you do business in.
+
+Could also have a map of resellers nearest to that city if they dont want to deal with shipping, customs etc.
+
+## Multilingual site?
+If you do business internationally it could significantly increase traffic to have multilingual site.
+
+## Contact Us
+There is no appointment booking form.
+The contact form could also be as a chatbot, which could also significantly increase lead generation, since users are prompted to input their emails to get response, and they would have less friction to chat than to fill a contact form.
+
+## Social Proof
+![](https://stockholm-video-cdn.b-cdn.net/screenshot_20241009144018.png)
+There are no reviews, though there is the review section in product pages.
+
+I recommend implementing a call to review email campaign, which after 14-30 days would send email to customers to give a review of the product(s) they purchased.
+
+You may also first direct users to a landing page, which filters 4-5 star reviews that are saved to the city in public and 1-3 star reviews are only received as feedback.
+
+Right now I did not see any star reviews in the search results pages. Maybe they are hidden or maybe they do not exist.
+
+![](https://www.business2community.com/wp-content/uploads/2020/07/how-to-ask-for-reviews-review-request-email.png)
+
+## Products that could be merged into variants
+![](https://stockholm-video-cdn.b-cdn.net/screenshot_20241009145554.png)
+![](https://stockholm-video-cdn.b-cdn.net/screenshot_20241009145624.png)
+![](https://stockholm-video-cdn.b-cdn.net/screenshot_20241009145649.png)
+![](https://stockholm-video-cdn.b-cdn.net/screenshot_20241009145706.png)
+
+To reduce duplicate content and ease inventory management.
 
 ## Summary of SERP & On-Page Analysis
 
