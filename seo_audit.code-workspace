@@ -13,7 +13,8 @@
 			".npmrc",
 			"evidence.plugins.yaml",
 			"package-lock.json",
-			"package.json"
+			"package.json",
+			"seo_audit.code-workspace"
 		]
 	}
 }
