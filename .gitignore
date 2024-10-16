@@ -11,7 +11,7 @@ static/data
 token.pickle
 credentials.json
 prospects
-sources/seo/crawl.duckdb
+sources/*
 seo_audit.code-workspace
 scripts/temp/*
 !scripts/temp/
