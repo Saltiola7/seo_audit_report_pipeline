@@ -1,5 +1,5 @@
 ---
-title: moreliving.com.au SEO Audit
+title: domain.com SEO Audit
 ---
 
 <!-- <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
@@ -12,13 +12,6 @@ title: moreliving.com.au SEO Audit
     allowfullscreen>
   </iframe>
 </div> -->
-
-
-
-## Social Proof
-- Testimonials
-- Reviews
-- 
 
 ## Summary of SERP & On-Page Analysis
 
