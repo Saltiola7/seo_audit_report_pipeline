@@ -14,7 +14,8 @@
 			"evidence.plugins.yaml",
 			"package-lock.json",
 			"package.json",
-			"seo_audit.code-workspace"
+			"seo_audit.code-workspace",
+			"credentials.json"
 		]
 	}
 }
